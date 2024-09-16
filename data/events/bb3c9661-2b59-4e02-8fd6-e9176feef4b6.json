@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "25316835-6f3c-4682-a65b-22ddea7bc9f8": {
+      "label": "Her Kind ",
+      "is_offline": false,
+      "file_url": "https://library.harvard.edu/poetry/audio/listeningbooth//PS3537E915A6x1974/Her_Kind.mp3",
+      "duration": 90
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "https://library.harvard.edu/poetry/listeningbooth/poets/sexton.html",
+  "item_type": "Audio",
+  "label": "Her Kind",
+  "created_at": "2024-09-16T17:30:56.258Z",
+  "created_by": "saracarl",
+  "updated_at": "2024-09-16T17:30:56.258Z",
+  "updated_by": "saracarl"
+}
