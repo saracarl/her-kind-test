@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-06-18T19:35:52.159Z",
+  "created_by": "saracarl",
+  "title": "wgbh test",
+  "slug": "wgbh-test",
+  "updated_at": "2025-06-18T19:35:52.159Z",
+  "updated_by": "saracarl",
+  "parent": "bd0b61b4-43b9-46ac-bfad-4a9b7206c0ac",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "a5904136-11ac-4a7a-9b51-ec122f1d35da"
+  }
+}
